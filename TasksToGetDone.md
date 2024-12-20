@@ -1,0 +1,4 @@
+- Complete Weekly Planner Page by adding local storage
+- Think of ideas for notes page and then implement them
+- Implement local Storage for the notes page
+- Polish up the AI page and make sure the whole website is polished
